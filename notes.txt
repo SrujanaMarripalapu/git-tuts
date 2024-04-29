@@ -1,0 +1,53 @@
+version control - a system that keeps records of your changes.
+- allows for collaborative development
+- allows to know who made what changes & when
+-allows to revert any changes
+
+types of vc system 
+
+1.local - works only on local system ie., in laptop always point to latest update (works only if u r the developer and dont want to collebrate with team)
+
+2. centralized - colleberates and developers will communicate with main server repository and write the code.
+
+there wont be any local copy of code or project .
+
+3.distributed - mostly and widely used, bcoz it has both main server and 
+local repository.
+
+pull - taking the code in local repository
+push - pushing the code into the main server
+
+--> for version changes, track the changes and
+--> to save the project 
+
+	we use git vcs
+
+
+GIT - is a vcs (version control system)
+GITHUB - one example of remote repository hosting(to store) service
+
+1.repository - a folder for project
+remote repository - to store remote repositories github is an example
+
+2.local respository - repository present in local system
+
+3. staging area- we can how many files we want wwe can send those files only using staging area
+.
+4.working directory - stage we are working is the working directory , untracked section is the working directoey
+
+after saving the files in the local repository only we can save them in remote repository
+
+
+----> to send anything into local repository we use "commit" cmnd
+
+
+
+----> to send anything from local repository to remote repository we use "push" cmnd
+
+
+
+
+
+
+
+
